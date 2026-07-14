@@ -1,0 +1,6 @@
+Flask==2.3.2
+flask-cors==4.0.0
+requests==2.31.0
+faker==18.11.1
+beautifulsoup4==4.12.2
+gunicorn==21.2.0
